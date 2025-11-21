@@ -144,11 +144,3 @@ The `pyproject.toml` contains the project version. Increment it following semant
 ## License
 
 Distributed under the terms of the license found in [LICENSE](LICENSE).
-
-## Acknowledgments
-
-This repository is part of an MLOps learning journey—adapt and extend it as you advance through the labs.
-
----
-
-If something is unclear or missing, improve this README as you iterate. Good documentation is a core MLOps asset.
